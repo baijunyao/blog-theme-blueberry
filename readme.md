@@ -1,1 +1,3 @@
-项目尚未稳定、还在各个项目上测试中、留坑稳定后写详细说明
+### 简介
+[白俊遥博客](https://baijunyao.com)的前端静态页面；  
+![laravel-bjyblog](https://baijunyao.com/uploads/article/20171210/5a2d533982e36.jpg)  
